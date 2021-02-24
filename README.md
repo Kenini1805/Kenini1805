@@ -1,16 +1,44 @@
-### Hi there 👋
+<h2> Hi, I'm Su. I'm PHP developer and have good skill for frontend developer  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Software Enginner at <a href="https://sun-asterisk.vn">Sun*</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-<!--
-**Kenini1805/Kenini1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kenini1805&show_icons=true&theme=synthwave">](https://metrics.lecoq.io/ouuan?template=classic)
+
+
+- Understand well about `OOP` 
+- `HTML`, `CSS`, `Bootstrap`: normal use 
+- Have good skill about using `Jquery`, `MySQL`, `PHP`
+- Great at using `Laravel` framework in design Website 
+- Understand `Git` 
+- Learning `Agile` mindset
+- `Vuejs` and `Vuex`
+- Skill `Unit Test`
+- Deploy manual and `auto deploy`
+- Using `AWS`
+
+
+
+
+## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTE ACTIVITIES
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenini1805&show_icons=true&theme=synthwave&layout=compact">](https://metrics.lecoq.io/ouuan?template=classic)
+
+#### 06/2020
+**Contributor at Laravel**: 
+- https://github.com/laravel/framework/pull/33278
+#### 2019
+
+**Contributor at Chat++**: 
+- https://github.com/wataridori/chatpp/graphs/contributors
+
+#### Now
+Owner package `Laravel monitoring`, `Nginx monitoring`
+- https://github.com/AvengersCodeLovers/laravel-log-monitoring
+- https://github.com/AvengersCodeLovers/nginx-log-monitoring
+
+## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
+💬 Ask me about: https://storyofsu.com
+
+⚡ Fun fact: ***No pain no gain***
