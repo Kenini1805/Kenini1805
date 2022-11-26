@@ -21,6 +21,8 @@
 
 
 
+## <img src="https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721" width="30" />CERTIFICATE
+ <img src="https://images.viblo.asia/1f5d99d1-8cb7-4d82-a627-d6934d20d94b.png" width="100" />
 
 ## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTE ACTIVITIES
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenini1805&show_icons=true&theme=synthwave&layout=compact">](https://metrics.lecoq.io/ouuan?template=classic)
