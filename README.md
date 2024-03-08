@@ -26,6 +26,7 @@
 #### 06/2020
 **Contributor at Laravel**: 
 - https://github.com/laravel/framework/pull/33278
+- https://github.com/laravel/framework/pull/49669
 #### 2019
 
 **Contributor at Chat++**: 
