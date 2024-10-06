@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Old age is like everything else. To make a success of it, you've got to start young.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Only when one allows themself the right to die, do they then give yourself the permission to live.&quot;</em> <br>
+— C. Sean McGee
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
