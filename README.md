@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The best time to plant a tree was 20 years ago. The second best time is now.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;Numbing the pain for a while will only make it worse when you finally feel it.&quot;</em> <br>
+— Albus Dumbledore
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
