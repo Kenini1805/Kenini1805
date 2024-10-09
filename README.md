@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Think and wonder, wonder and think.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;Change is not a four letter word...but often your reaction to it is!&quot;</em> <br>
+— Jeffrey Gitomer
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
