@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Money poisons you when you've got it, and starves you when you haven't.&quot;</em> <br>
-— D. H. Lawrence
+<em>&quot;Think and wonder, wonder and think.&quot;</em> <br>
+— Dr. Seuss
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
