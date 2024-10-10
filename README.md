@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. &quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;We can spend our whole lives escaping from the monsters of our minds.&quot;</em> <br>
+— Pema Chodron
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
