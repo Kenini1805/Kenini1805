@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;To every action there is always opposed an equal reaction.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;I didn't get there by wishing for it or hoping for it, but by working for it.&quot;</em> <br>
+— Estee Lauder
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
