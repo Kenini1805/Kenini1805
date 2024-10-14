@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.&quot;</em> <br>
-— Robert Greene
+<em>&quot;The hard path is often the right one. The river teaches more than the shore.&quot;</em> <br>
+— Maxime Lagace
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
