@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Those who realize their folly are not true fools.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;No one returns from a long journey the same person they were before.&quot;</em> <br>
+— Zen Proverb
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
