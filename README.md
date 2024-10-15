@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  &quot;</em> <br>
-— Seneca
+<em>&quot;If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.&quot;</em> <br>
+— Robert Kiyosaki
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
