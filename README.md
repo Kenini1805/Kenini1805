@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The only lost cause is one we give up on before we enter the struggle.&quot;</em> <br>
-— Vaclav Havel
+<em>&quot;Successful people appreciate where they have come from, but they don't let their past set the tone for their future.&quot;</em> <br>
+— Steve Harvey
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
