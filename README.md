@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Today you are you, that is truer than true. There is no one alive who is you-er than you.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;Stress happens when the mind resists what is.&quot;</em> <br>
+— Dan Millman
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
