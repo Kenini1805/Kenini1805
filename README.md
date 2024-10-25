@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.&quot;</em> <br>
-— Josh Waitzkin
+<em>&quot;Success is not to be pursued, it is to be attracted by the person you become.&quot;</em> <br>
+— Jim Rohn
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
