@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you're afraid - don't do it, - if you're doing it - don't be afraid! &quot;</em> <br>
-— Genghis Khan
+<em>&quot;Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.&quot;</em> <br>
+— Sydney Smith
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
