@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Meditate. It won't be fun but it will surface what you need to deal with.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;There is peace even in the storm.&quot;</em> <br>
+— Vincent van Gogh
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
