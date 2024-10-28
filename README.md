@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Anything becomes interesting if you look at it long enough..&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;Death is not an ending. It is a transformation.&quot;</em> <br>
+— Ming-Dao Deng
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
