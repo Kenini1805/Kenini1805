@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The most important thing is to enjoy your life, to be happy, it's all that matters.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.&quot;</em> <br>
+— Celestine Chua
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
