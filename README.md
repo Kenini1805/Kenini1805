@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.&quot;</em> <br>
+— Dalai Lama
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
