@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The secret of getting ahead is getting started.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Success is about creating value.&quot;</em> <br>
+— Candice Carpenter
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
