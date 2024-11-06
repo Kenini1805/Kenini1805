@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Success is not to be pursued, it is to be attracted by the person you become.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;True friendship ought never to conceal what it thinks. &quot;</em> <br>
+— St. Jerome
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
