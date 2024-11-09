@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The person who says something is impossible should not interrupt the person who is doing it.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;No one ever is defeated until defeat has been accepted as a reality.&quot;</em> <br>
+— Napoleon Hill
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
