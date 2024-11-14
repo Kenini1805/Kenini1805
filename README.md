@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Anxiety is the dizziness of freedom.&quot;</em> <br>
-— Soren Kierkegaard
+<em>&quot;Do Something. If it works, do more of it. If it doesn't, do something else.&quot;</em> <br>
+— Franklin D. Roosevelt
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
