@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Decide upon your major definite purpose in life and then organize all your activities around it.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;I wasn't brave, I just didn't have time to be scared.&quot;</em> <br>
+— Amelia Earhart
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
