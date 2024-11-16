@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Be not afraid of growing slowly, be afraid only of standing still. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Insanity is relative. It depends on who has who locked in what cage.  &quot;</em> <br>
+— Ray Bradbury
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
