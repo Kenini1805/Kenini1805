@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you take responsibility for yourself you will develop a hunger to accomplish your dream.&quot;</em> <br>
-— Les Brown
+<em>&quot;Change yourself and you have done your part in changing the world.&quot;</em> <br>
+— Paramahansa Yogananda
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
