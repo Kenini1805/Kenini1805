@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you don't know, the thing to do is not to get scared, but to learn.&quot;</em> <br>
-— Ayn Rand
+<em>&quot;It's better to stand by someone's side than by yourself.&quot;</em> <br>
+— Jack London
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
