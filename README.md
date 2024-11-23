@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Attitude, not aptitude, determines altitude.  &quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&quot;</em> <br>
+— Peter Drucker
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
