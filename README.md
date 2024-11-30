@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;No idea, no matter how good, will work if it doesn't get used.&quot;</em> <br>
-— Peter A. Cohen
+<em>&quot;Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.&quot;</em> <br>
+— Richard Bach
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
