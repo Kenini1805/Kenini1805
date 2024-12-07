@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Those who attain the middle Dominate the whole.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;A minute's success pays the failure of years.&quot;</em> <br>
+— Robert Browning
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
