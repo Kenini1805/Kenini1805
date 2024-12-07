@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Everything that irritates us about others.&quot;</em> <br>
-— Carl Jung
+<em>&quot;Anyone who has ever made anything of importance was disciplined.&quot;</em> <br>
+— Andrew Hendrixson
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
