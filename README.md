@@ -38,7 +38,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The more you extend kindness to yourself, the more it will become your automatic response to others.&quot;</em> <br>
-— Wayne Dyer
+<em>&quot;The world is a puzzle; no need to make sense out of it.&quot;</em> <br>
+— Socrates
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
