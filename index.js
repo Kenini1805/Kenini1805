@@ -19,23 +19,23 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
   ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
   [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kenini1805&show_icons=true&theme=synthwave">](https://metrics.lecoq.io/ouuan?template=classic)
   
-  - Understands \`OOP\` well
-  - \`HTML\`, \`CSS\`, \`Bootstrap\`: proficient
-  - Strong skills in \`JQuery\`, \`MySQL\`, \`PHP\`
-  - Excellent with the \`Laravel\` framework for web design
-  - Proficient with \`Git\`
-  - Learning the \`Agile\` mindset
-  - Knowledge of \`Vue.js\` and \`Vuex\`
-  - Skill in \`Unit Testing\`
-  - Experience in manual and \`automated deployment\`
-  - Familiar with \`AWS\`
+  - Understands \`OOP\` well  
+  - \`HTML\`, \`CSS\`, \`Bootstrap\`: proficient  
+  - Strong skills in \`Golang\`, \`PHP\`, \`JS\`, \`MySQL\`  
+  - Excellent with the \`Laravel\` framework for web design  
+  - Proficient with \`Git\`  
+  - Learning the \`Agile\` mindset  
+  - Knowledge of \`Vue.js\` and \`Vuex\`  
+  - Skill in \`Unit Testing\`, \`Feature Testing\`  
+  - Experience in manual and \`automated deployment\`  
+  - Familiar with \`AWS\`  
+  - Knowledge of \`REST API\` and \`gRPC\` 
   
   ## <img src="https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721" width="30" /> CERTIFICATES
   <img src="https://images.viblo.asia/1f5d99d1-8cb7-4d82-a627-d6934d20d94b.png" width="100" />
   
   ## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTIONS
-  [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenini1805&show_icons=true&theme=synthwave&layout=compact">](https://metrics.lecoq.io/ouuan?template=classic)
-  
+
   #### 06/2020
   **Contributor at Laravel**: 
   - https://github.com/laravel/framework/pull/33278
@@ -49,6 +49,12 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
   Owner of packages \`Laravel monitoring\` and \`Nginx monitoring\`
   - https://github.com/AvengersCodeLovers/laravel-log-monitoring
   - https://github.com/AvengersCodeLovers/nginx-log-monitoring
+
+  <p align="center">
+    <a href="https://github.com/Kenini1805/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kenini1805&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  </p>
   
   ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
   💬 Ask me anything: [chillwithsu.com](https://chillwithsu.com/)

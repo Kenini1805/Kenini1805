@@ -6,20 +6,20 @@
 
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
-- Strong skills in <code>JQuery</code>, <code>MySQL</code>, <code>PHP</code>
+- Strong skills in <code>Golang</code>, <code>PHP</code>, <code>JS</code>, <code>MySQL</code>
 - Excellent with the <code>Laravel</code> framework for web design
 - Proficient with <code>Git</code>
 - Learning the <code>Agile</code> mindset
 - Knowledge of <code>Vue.js</code> and <code>Vuex</code>
-- Skill in <code>Unit Testing</code>
+- Skill in <code>Unit Testing</code>, <code>Feature Testing</code>
 - Experience in manual and <code>automated deployment</code>
 - Familiar with <code>AWS</code>
+- Knowledge of <code>REST API</code> and <code>gRPC</code>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721" width="30" /> CERTIFICATES
 <img src="https://images.viblo.asia/1f5d99d1-8cb7-4d82-a627-d6934d20d94b.png" width="100" />
 
 ## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTIONS
-<a href="https://metrics.lecoq.io/ouuan?template=classic"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenini1805&show_icons=true&theme=synthwave&layout=compact"></a>
 
 #### 06/2020
 <strong>Contributor at Laravel</strong>:
@@ -34,6 +34,12 @@
 Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</code>
 - https://github.com/AvengersCodeLovers/laravel-log-monitoring
 - https://github.com/AvengersCodeLovers/nginx-log-monitoring
+
+<p align="center">
+    <a href="https://github.com/Kenini1805/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kenini1805&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
