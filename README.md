@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Whatever your heart clings to and confides in, that is really your God.&quot;</em> <br>
-— Martin Luther
+<em>&quot;Light a candle instead of cursing the darkness.&quot;</em> <br>
+— Eleanor Roosevelt
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
