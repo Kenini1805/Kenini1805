@@ -4,16 +4,16 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
 <a href="https://metrics.lecoq.io/ouuan?template=classic"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kenini1805&show_icons=true&theme=synthwave"></a>
 
-- Understands <code>OOP</code> well
-- <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
-- Strong skills in <code>Golang</code>, <code>PHP</code>, <code>JS</code>, <code>MySQL</code>
-- Excellent with the <code>Laravel</code> framework for web design
-- Proficient with <code>Git</code>
-- Learning the <code>Agile</code> mindset
-- Knowledge of <code>Vue.js</code> and <code>Vuex</code>
-- Skill in <code>Unit Testing</code>, <code>Feature Testing</code>
-- Experience in manual and <code>automated deployment</code>
-- Familiar with <code>AWS</code>
+- Understands <code>OOP</code> well<br>
+- <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient<br>
+- Strong skills in <code>Golang</code>, <code>PHP</code>, <code>JS</code>, <code>MySQL</code><br>
+- Excellent with the <code>Laravel</code> framework for web design<br>
+- Proficient with <code>Git</code><br>
+- Learning the <code>Agile</code> mindset<br>
+- Knowledge of <code>Vue.js</code> and <code>Vuex</code><br>
+- Skill in <code>Unit Testing</code>, <code>Feature Testing</code><br>
+- Experience in manual and <code>automated deployment</code><br>
+- Familiar with <code>AWS</code><br>
 - Knowledge of <code>REST API</code> and <code>gRPC</code>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721" width="30" /> CERTIFICATES
@@ -36,15 +36,15 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 - https://github.com/AvengersCodeLovers/nginx-log-monitoring
 
 <p align="center">
-    <a href="https://github.com/Kenini1805/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kenini1805&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<a href="https://github.com/Kenini1805/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kenini1805&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</a>
 </p>
 
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Discipline yourself, and others won't need to.&quot;</em> <br>
-— John Wooden
+<em>&quot;It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.&quot;</em> <br>
+— Henry Ward Beecher
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
