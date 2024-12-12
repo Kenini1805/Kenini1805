@@ -36,9 +36,9 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 - https://github.com/AvengersCodeLovers/nginx-log-monitoring
 
 <p align="center">
-<a href="https://github.com/Kenini1805/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kenini1805&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
+    <a href="https://github.com/Kenini1805/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kenini1805&theme=synthwave"/>
+    </a>
 </p>
 
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
