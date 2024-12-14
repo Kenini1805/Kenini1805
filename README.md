@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Troubles are often the tools by which God fashions us for better things.&quot;</em> <br>
-— Henry Ward Beecher
+<em>&quot;Each path to knowledge involves different rules and these rules are not interchangeable.&quot;</em> <br>
+— Barack Obama
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
