@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is not fair to ask of others what you are not willing to do yourself.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.&quot;</em> <br>
+— Elbert Hubbard
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
