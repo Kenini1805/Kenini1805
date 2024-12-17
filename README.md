@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A man is but a product of his thoughts. What he thinks he becomes.&quot;</em> <br>
-— Mahatma Gandhi
+<em>&quot;We can know only that we know nothing. And that is the highest degree of human wisdom.&quot;</em> <br>
+— Leo Tolstoy
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
