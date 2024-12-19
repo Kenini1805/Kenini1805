@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If fear is too strong, the genius is suppressed.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.&quot;</em> <br>
+— Nelson Mandela
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
