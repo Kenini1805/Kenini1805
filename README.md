@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Working hard for something we don't care about is called stress: Working hard for something we love is called passion.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;Turn off your mind, relax, and float downstream.&quot;</em> <br>
+— John Lennon
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
