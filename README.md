@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Everyone wants to go to Heaven, but no one wants to die.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;We have a choice everyday regarding the attitude we will embrace for that day.&quot;</em> <br>
+— Charles Swindoll
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
