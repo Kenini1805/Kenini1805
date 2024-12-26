@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Loving thoughts and actions are clearly beneficial for our physical and mental health.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.&quot;</em> <br>
+— Charles Dickens
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
