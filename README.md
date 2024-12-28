@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If I cannot do great things. I can do small things in a great way.&quot;</em> <br>
-— Martin Luther King, Jr.
+<em>&quot;The one who boasts does so only out of a feeling of inferiority.&quot;</em> <br>
+— Alfred Adler
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
