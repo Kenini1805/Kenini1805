@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Don't live the same year 75 times and call it a life.&quot;</em> <br>
-— Robin Sharma
+<em>&quot;Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.&quot;</em> <br>
+— Lily Tomlin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
