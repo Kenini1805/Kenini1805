@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The first man gets the oyster, the second man gets the shell.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;The harder the conflict, the greater the triumph. &quot;</em> <br>
+— George Washington
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
