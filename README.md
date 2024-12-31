@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Discipline is the mark of intelligent living.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Everything you've ever wanted is on the other side of fear.&quot;</em> <br>
+— George Addair
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
