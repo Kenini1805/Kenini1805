@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;I am thankful to all those who said no. It's because of them, I did it myself.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;If you want something then you lose everything. If you don't want anything then you already have everything.&quot;</em> <br>
+— Seungsahn
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
