@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You are always your own best guru, your own best teacher, the answers are always inside you.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;You'll never find rainbows if you're looking down.  &quot;</em> <br>
+— Charlie Chaplin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
