@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;To know even one life has breathed easier because you have lived. This is to have succeeded.&quot;</em> <br>
-— Ralph Waldo Emerson
+<em>&quot;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. &quot;</em> <br>
+— Orison Swett Marden
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
