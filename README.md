@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Hope and fear come from feeling that we lack something; they come from a sense of poverty.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;The best of us sometimes eat our words.  &quot;</em> <br>
+— Albus Dumbledore
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
