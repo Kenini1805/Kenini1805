@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Life is what you make it. Always has been, always will be.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;The big thing is to make a winning effort. I'm not obsessed with wins.&quot;</em> <br>
+— Morgan Wootten
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
