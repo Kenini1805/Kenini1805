@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Those who are easily shocked should be shocked more often.&quot;</em> <br>
-— Mae West
+<em>&quot;You can't build a reputation on what you are going to do. &quot;</em> <br>
+— Henry Ford
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
