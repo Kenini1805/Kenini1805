@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The only limits in our life are those we impose on ourselves.&quot;</em> <br>
-— Bob Proctor
+<em>&quot;Dreams have only one owner at a time. That's why dreamers are lonely.&quot;</em> <br>
+— William Faulkner
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
