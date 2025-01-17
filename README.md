@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;The ladder of success is best climbed by stepping on the rungs of opportunity.&quot;</em> <br>
+— Ayn Rand
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
