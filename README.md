@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;How to get more opportunity: Create more opportunity for others.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;Trust is the foundation of great leadership.&quot;</em> <br>
+— Lolly Daskal
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
