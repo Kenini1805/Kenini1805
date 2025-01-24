@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.&quot;</em> <br>
-— Dr. Seuss
+<em>&quot;When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.&quot;</em> <br>
+— Peter A. Cohen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
