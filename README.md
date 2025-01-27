@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Smell the cheese often so you know when it is getting old.&quot;</em> <br>
-— Spencer Johnson
+<em>&quot;Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.&quot;</em> <br>
+— Gary Keller
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
