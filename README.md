@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;I was wise enough to never grow up while fooling most people into believing I had. &quot;</em> <br>
-— Margaret Mead
+<em>&quot;You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.&quot;</em> <br>
+— A.A. Milne
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
