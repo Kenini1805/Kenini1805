@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.&quot;</em> <br>
-— Sonia Ricotti
+<em>&quot;Create each day anew.&quot;</em> <br>
+— Morihei Ueshiba
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
