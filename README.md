@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is in the darkness that one finds the light.&quot;</em> <br>
-— Meister Eckhart
+<em>&quot;Before anything else, preparation is the key to success.&quot;</em> <br>
+— Alexander Graham Bell
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
