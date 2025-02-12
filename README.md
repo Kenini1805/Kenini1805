@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;When I let go of what I am, I become what I might be.&quot;</em> <br>
+— Lao Tzu
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
