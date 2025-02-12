@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Live the moment for the moment.&quot;</em> <br>
-— Michael Jordan
+<em>&quot;In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.&quot;</em> <br>
+— Eric Hoffer
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
