@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;I believe that one of life's greatest risks is never daring to risk.&quot;</em> <br>
-— Oprah Winfrey
+<em>&quot;It is better to be looked over than overlooked.&quot;</em> <br>
+— Mae West
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
