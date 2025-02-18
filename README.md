@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Only those who do nothing at all make no mistakes.&quot;</em> <br>
-— Unknown
+<em>&quot;One of the most difficult things is not to change society - but to change yourself.&quot;</em> <br>
+— Nelson Mandela
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
