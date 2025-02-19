@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is impossible for a man to learn what he thinks he already knows.&quot;</em> <br>
-— Epictetus
+<em>&quot;Longevity is a fleeting moment that lasts forever.&quot;</em> <br>
+— Vidal Sassoon
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
