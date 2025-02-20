@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You talk when you cease to be at peace with your thoughts.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;The whole of life, from the moment you are born to the moment you die, is a process of learning.&quot;</em> <br>
+— Jiddu Krishnamurti
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
