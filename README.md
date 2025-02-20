@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You can never cross the ocean unless you have the courage to lose sight of the shore.&quot;</em> <br>
-— Christopher Columbus
+<em>&quot;You talk when you cease to be at peace with your thoughts.&quot;</em> <br>
+— Kahlil Gibran
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
