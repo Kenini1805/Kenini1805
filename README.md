@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Laziness may appear attractive, but work gives satisfaction.&quot;</em> <br>
-— Anne Frank
+<em>&quot;Never say never, because limits, like fears, are often just an illusion.&quot;</em> <br>
+— Michael Jordan
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
