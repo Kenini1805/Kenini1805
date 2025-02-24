@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There are no accidents... there is only some purpose that we haven't yet understood.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;The outer conditions of a person's life will always be found to reflect their inner beliefs.&quot;</em> <br>
+— James Allen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
