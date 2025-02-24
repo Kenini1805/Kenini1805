@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;What most people need to learn in life is how to love people and use things instead of using people and loving things.&quot;</em> <br>
-— Unknown
+<em>&quot;Fear not the path of Truth for the lack of People walking on it.&quot;</em> <br>
+— Robert F. Kennedy
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
