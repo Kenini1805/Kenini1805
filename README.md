@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;They say love is the best investment; the more you give, the more you get in return.&quot;</em> <br>
-— Audrey Hepburn
+<em>&quot;My powers are ordinary. Only my application brings me success.&quot;</em> <br>
+— Isaac Newton
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
