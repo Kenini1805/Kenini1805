@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.&quot;</em> <br>
-— Les Brown
+<em>&quot;You drown not by falling into a river, but by staying submerged in it.&quot;</em> <br>
+— Paulo Coelho
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
