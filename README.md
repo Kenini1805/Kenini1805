@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. &quot;</em> <br>
-— Charles Swindoll
+<em>&quot;Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.&quot;</em> <br>
+— Dale Carnegie
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
