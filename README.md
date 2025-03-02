@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.&quot;</em> <br>
-— Richard Bach
+<em>&quot;What worries you, masters you.&quot;</em> <br>
+— John Locke
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
