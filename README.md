@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Treat every moment as your last. It is not preparation for something else.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&quot;</em> <br>
+— Sydney Smith
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
