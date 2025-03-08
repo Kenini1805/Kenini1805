@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. &quot;</em> <br>
-— Charles Swindoll
+<em>&quot;When you are tough on yourself, life is going to be infinitely easier on you.  &quot;</em> <br>
+— Zig Ziglar
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
