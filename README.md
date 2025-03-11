@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;If you spend too much time thinking about a thing, you'll never get it done. &quot;</em> <br>
+— Bruce Lee
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
