@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A diamond is a piece of charcoal that handled stress exceptionally well.&quot;</em> <br>
-— Unknown
+<em>&quot;A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.&quot;</em> <br>
+— Harry S. Truman
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
