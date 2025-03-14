@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If it entertains you now but will bore you someday, it's a distraction. Keep looking.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;The only thing more frustrating than slanderers is those foolish enough to listen to them.&quot;</em> <br>
+— Criss Jami
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
