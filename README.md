@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Don't let making a living prevent you from making a life.&quot;</em> <br>
-— John Wooden
+<em>&quot;It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.&quot;</em> <br>
+— Henry Ward Beecher
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
