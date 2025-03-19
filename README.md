@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!&quot;</em> <br>
-— Alfred Adler
+<em>&quot;Don't blame others. it won't make you a better person.&quot;</em> <br>
+— Lolly Daskal
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
