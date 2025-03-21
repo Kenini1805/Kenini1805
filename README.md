@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;To seek is to suffer. To seek nothing is bliss.&quot;</em> <br>
-— Bodhidharma
+<em>&quot;Your neighbor is the man who needs you.&quot;</em> <br>
+— Elbert Hubbard
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
