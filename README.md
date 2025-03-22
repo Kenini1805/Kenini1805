@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.&quot;</em> <br>
-— Marcus Aurelius
+<em>&quot;The first principle of success is desire.&quot;</em> <br>
+— Robert Collier
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
