@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Learn from the mistakes of others. You can't live long enough to make them all yourself.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;It is never too late to be what you might have been.&quot;</em> <br>
+— George Eliot
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
