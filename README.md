@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There is only one thing that makes a dream impossible to achieve: the fear of failure.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.&quot;</em> <br>
+— Celestine Chua
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
