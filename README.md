@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You cannot always control what goes on outside. But you can always control what goes on inside. &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  &quot;</em> <br>
+— David Brinkley
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
