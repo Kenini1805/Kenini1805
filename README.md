@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;Growth comes at the point of resistance.&quot;</em> <br>
+— Josh Waitzkin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
