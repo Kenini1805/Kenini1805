@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;No man is happy who does not think himself so.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;All things come into being by conflict of opposites.&quot;</em> <br>
+— Heraclitus
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
