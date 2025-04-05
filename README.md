@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You can't let your failures define you. You have to let your failures teach you.&quot;</em> <br>
-— Barack Obama
+<em>&quot;No idea, no matter how good, will work if it doesn't get used.&quot;</em> <br>
+— Peter A. Cohen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
