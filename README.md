@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;None are more hopelessly enslaved than those who falsely believe they are free.&quot;</em> <br>
-— Johann Wolfgang von Goethe
+<em>&quot;Who you are is defined by what you're willing to struggle for.&quot;</em> <br>
+— Mark Manson
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
