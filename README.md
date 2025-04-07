@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Genius is one percent inspiration and ninety-nine percent perspiration.&quot;</em> <br>
-— Thomas Edison
+<em>&quot;To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.&quot;</em> <br>
+— Elvis Presley
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
