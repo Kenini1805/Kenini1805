@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Everything has its beauty, but not everyone sees it. &quot;</em> <br>
-— Confucius
+<em>&quot;I would rather die on my feet than live on my knees.&quot;</em> <br>
+— Euripides
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
