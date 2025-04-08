@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;In peace, sons bury their fathers. In war, fathers bury their sons. &quot;</em> <br>
-— Herodotus
+<em>&quot;I have no methods; all I do is accept people as they are.&quot;</em> <br>
+— Joan Rivers
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
