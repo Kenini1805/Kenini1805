@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You can't climb the ladder of success with your hands in your pockets.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;In the middle of chaos lies opportunity.  &quot;</em> <br>
+— Bruce Lee
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
