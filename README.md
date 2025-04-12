@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Don't spend time beating on a wall, hoping to transform it into a door.&quot;</em> <br>
-— Coco Chanel
+<em>&quot;Thoughts become things. If you see it in your mind, you will hold it in your hand.&quot;</em> <br>
+— Bob Proctor
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
