@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Life can be the scariest and most beautiful thing simultaneously.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;Disobedience is the true foundation of liberty. The obedient must be slaves.&quot;</em> <br>
+— Henry David Thoreau
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
