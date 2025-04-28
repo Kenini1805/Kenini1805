@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;I can live without money, but I cannot live without love.&quot;</em> <br>
-— Judy Garland
+<em>&quot;All wealth is the product of labor.&quot;</em> <br>
+— John Locke
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
