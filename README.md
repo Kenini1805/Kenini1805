@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;The strength of a wall is neither greater nor less than the courage of the men who defend it. &quot;</em> <br>
+— Genghis Khan
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
