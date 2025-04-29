@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A tiny change today brings a dramatically different tomorrow.&quot;</em> <br>
-— Richard Bach
+<em>&quot;The fear of death is more to be feared, than death itself.&quot;</em> <br>
+— Publilius Syrus
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
