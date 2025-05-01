@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Our joy does not have to be based on our circumstances.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Believe nothing you hear, and only one half that you see.&quot;</em> <br>
+— Edgar Allan Poe
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
