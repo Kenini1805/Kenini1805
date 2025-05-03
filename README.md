@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;One loyal friend is worth ten thousand relatives.&quot;</em> <br>
-— Euripides
+<em>&quot;When one does not have what one wants, one must want what one has.&quot;</em> <br>
+— Sigmund Freud
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
