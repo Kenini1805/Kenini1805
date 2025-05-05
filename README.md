@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.&quot;</em> <br>
+— Peter Drucker
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
