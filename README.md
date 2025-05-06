@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;We cannot expect to be happy always... by experiencing evil as well as good we become wise.&quot;</em> <br>
+— Hans Christian Andersen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
