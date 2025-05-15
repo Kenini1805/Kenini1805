@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.&quot;</em> <br>
+— Thomas Jefferson
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
