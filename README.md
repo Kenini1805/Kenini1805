@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Patience is not the ability to wait but the ability to keep a good attitude while waiting.&quot;</em> <br>
-— Joyce Meyer
+<em>&quot;Don't give up the fight, Stand up for your rights.&quot;</em> <br>
+— Bob Marley
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
