@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Those who cannot change their minds cannot change anything.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;We are born from a quiet sleep, and we die to a calm awakening&quot;</em> <br>
+— Zhuangzi
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
