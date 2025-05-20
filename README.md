@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The only limits in your life are those that you set yourself.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;Good things aren't supposed to just fall into your lap.&quot;</em> <br>
+— Audrey Hepburn
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
