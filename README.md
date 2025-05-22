@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.&quot;</em> <br>
-— Robert Greene
+<em>&quot;To create more positive results in your life, replace 'if only' with 'next time'.&quot;</em> <br>
+— Celestine Chua
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
