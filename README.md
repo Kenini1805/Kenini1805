@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Happiness is the meaning and the purpose of life, the whole aim and end of human existence.&quot;</em> <br>
-— Aristotle
+<em>&quot;When angry count to ten before you speak. If very angry, count to one hundred.&quot;</em> <br>
+— Thomas Jefferson
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
