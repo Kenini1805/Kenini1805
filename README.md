@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Rudeness is the weak man's imitation of strength.&quot;</em> <br>
-— Eric Hoffer
+<em>&quot;The scariest monsters are the ones that lurk within our souls.&quot;</em> <br>
+— Edgar Allan Poe
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
