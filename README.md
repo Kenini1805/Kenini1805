@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.&quot;</em> <br>
-— Lily Tomlin
+<em>&quot;Go confidently in the direction of your dreams. Live the life you've imagined.&quot;</em> <br>
+— Arnold Schwarzenegger
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
