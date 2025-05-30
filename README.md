@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Life is and will ever remain an equation incapable of solution, but it contains certain known factors. &quot;</em> <br>
-— Nikola Tesla
+<em>&quot;The Truth is realized in an instant; the Act is practiced step by step.&quot;</em> <br>
+— Seungsahn
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
