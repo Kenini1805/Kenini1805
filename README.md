@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Everyone is a moon, and has a dark side which he never shows to anybody.&quot;</em> <br>
-— Mark Twain
+<em>&quot;Good judgment comes from experience, and experience comes from bad judgment.&quot;</em> <br>
+— Rita Mae Brown
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
