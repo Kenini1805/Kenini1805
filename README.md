@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;The more you take responsibility for your past and present, the more you are able to create the future you seek.&quot;</em> <br>
+— Celestine Chua
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
