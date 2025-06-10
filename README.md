@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You can have the mind or you can have the moment.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Make your life a mission - not an intermission.&quot;</em> <br>
+— Unknown
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
