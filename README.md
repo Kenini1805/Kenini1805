@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The more knowledge you have, the more you're free to rely on your instincts.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;The grass is greener where you water it.&quot;</em> <br>
+— Neil Barringham
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
