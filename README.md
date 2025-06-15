@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;The most important thing in communication is to hear what isn't being said.&quot;</em> <br>
+— Peter Drucker
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
