@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Our life isn't how much we can take out, but how much we can put in.  &quot;</em> <br>
-— Estee Lauder
+<em>&quot;To escape from the world means that one's mind is not concerned with the opinions of the world.&quot;</em> <br>
+— Dogen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
