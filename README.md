@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.&quot;</em> <br>
-— Colin Powell
+<em>&quot;There is no such thing as a great talent without great willpower.&quot;</em> <br>
+— Honore de Balzac
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
