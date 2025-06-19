@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There is no such thing as a great talent without great willpower.&quot;</em> <br>
-— Honore de Balzac
+<em>&quot;The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.&quot;</em> <br>
+— Carl Jung
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
