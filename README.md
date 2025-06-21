@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Take interest and even delight in doing the small things well.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;He who laughs at himself never runs out of things to laugh at.&quot;</em> <br>
+— Epictetus
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
