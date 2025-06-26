@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Deeds will not be less valiant because they are upraised.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.&quot;</em> <br>
+— Jeffrey Gitomer
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
