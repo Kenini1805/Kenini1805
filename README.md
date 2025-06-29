@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;We must embrace pain and burn it as fuel for our journey.&quot;</em> <br>
+— Kenji Miyazawa
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
