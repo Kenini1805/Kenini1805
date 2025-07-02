@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.&quot;</em> <br>
-— Amelia Earhart
+<em>&quot;Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.&quot;</em> <br>
+— Gary Keller
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
