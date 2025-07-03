@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you don't know where you're going, you will probably end up somewhere else.&quot;</em> <br>
-— Laurence J. Peter
+<em>&quot;Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.&quot;</em> <br>
+— Pema Chodron
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
