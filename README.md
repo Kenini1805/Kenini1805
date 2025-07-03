@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;He who knows best knows how little he knows.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.&quot;</em> <br>
+— Bhagavad Gita
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
