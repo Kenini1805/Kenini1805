@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you try, you might get exactly what you want. If you don't, you don't.&quot;</em> <br>
-— Unknown
+<em>&quot;There are as many opinions as there are experts.&quot;</em> <br>
+— Franklin D. Roosevelt
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
