@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.&quot;</em> <br>
-— Elon Musk
+<em>&quot;The greatest deception men suffer is from their own opinions.&quot;</em> <br>
+— Leonardo da Vinci
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
