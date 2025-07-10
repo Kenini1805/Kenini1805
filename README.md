@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;When you know what you want, and you want it bad enough, you will find a way to get it.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;The dream is free, but the hustle is sold separately.&quot;</em> <br>
+— Steve Harvey
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
