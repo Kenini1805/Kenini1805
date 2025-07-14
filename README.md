@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Generosity is giving more than you can, and pride is taking less than you need.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.&quot;</em> <br>
+— Kabir
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
