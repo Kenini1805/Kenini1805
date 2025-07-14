@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You have as much laughter as you have faith.&quot;</em> <br>
-— Martin Luther
+<em>&quot;Life is not a problem to be solved, but a reality to be experienced.&quot;</em> <br>
+— Soren Kierkegaard
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
