@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.&quot;</em> <br>
-— Tony Robbins
+<em>&quot;The future doesn't belong to the faint-hearted; it belongs to the brave.&quot;</em> <br>
+— Ronald Reagan
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
