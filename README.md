@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;To a mind that is still, the entire universe surrenders.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;Wise men speak because they have something to say; Fools because they have to say something.&quot;</em> <br>
+— Plato
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
