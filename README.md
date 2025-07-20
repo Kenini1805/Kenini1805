@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Sometimes letting things go is an act of far greater power than defending or hanging on.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;The truth is not for all men, but for those who seek it.&quot;</em> <br>
+— Ayn Rand
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
