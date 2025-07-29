@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you try to micromanage yourself all you're going to do is make yourself miserable.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;It's your outlook on life that counts.&quot;</em> <br>
+— Betty White
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
