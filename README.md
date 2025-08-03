@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Success is a poor teacher.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;It is what we make out of what we have, not what we are given, that separates one person from another.&quot;</em> <br>
+— Nelson Mandela
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
