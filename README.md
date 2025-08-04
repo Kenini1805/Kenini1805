@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Persistence is very important. You should not give up unless you are forced to give up.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Very little is needed to make a happy life; it is all within yourself, in your way of thinking.&quot;</em> <br>
+— Marcus Aurelius
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
