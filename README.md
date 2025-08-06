@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A clear conscience never fears midnight knocking.&quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Nothing that results in human progress is achieved with unanimous consent.&quot;</em> <br>
+— Christopher Columbus
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
