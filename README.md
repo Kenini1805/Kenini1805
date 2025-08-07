@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;Art is to console those who are broken by life.&quot;</em> <br>
+— Vincent van Gogh
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
