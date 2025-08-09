@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A path is made by walking on it.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;The people who succeed are irrationally passionate about something.&quot;</em> <br>
+— Naval Ravikant
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
