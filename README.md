@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Consider the rights of others before your own feelings, and the feelings of others before your own rights.&quot;</em> <br>
-— John Wooden
+<em>&quot;Focus is a matter of deciding what things you're not going to do.&quot;</em> <br>
+— John Carmack
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
