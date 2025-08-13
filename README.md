@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.&quot;</em> <br>
-— Herbert Hoover
+<em>&quot;Nothing makes a man broad-minded like adversity.&quot;</em> <br>
+— Will Rogers
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
