@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Keep your face to the sunshine and you cannot see the shadows.&quot;</em> <br>
-— Helen Keller
+<em>&quot;Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. &quot;</em> <br>
+— Oprah Winfrey
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
