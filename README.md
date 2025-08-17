@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Confidence is consistency of thinking about what is possible and how to make it possible.&quot;</em> <br>
-— John Eliot
+<em>&quot;We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.&quot;</em> <br>
+— Josh Waitzkin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
