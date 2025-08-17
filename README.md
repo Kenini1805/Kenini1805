@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Little by little, one travels far.&quot;</em> <br>
-— J.R.R. Tolkien
+<em>&quot;Most people spend more time and energy going around problems than in trying to solve them. &quot;</em> <br>
+— Henry Ford
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
