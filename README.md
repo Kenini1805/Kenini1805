@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You can have the mind or you can have the moment.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&quot;</em> <br>
+— Stephen King
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
