@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;To improve is to change, so to be perfect is to change often.&quot;</em> <br>
-— Winston Churchill
+<em>&quot;To live is the rarest thing in the world. Most people exist, that is all. &quot;</em> <br>
+— Oscar Wilde
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
