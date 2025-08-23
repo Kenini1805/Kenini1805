@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Live your life and forget your age.&quot;</em> <br>
-— Norman Vincent Peale
+<em>&quot;You can suffer the pain of change or suffer remaining the way you are.&quot;</em> <br>
+— Joyce Meyer
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
