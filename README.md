@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Be not afraid of growing slowly, be afraid only of standing still. &quot;</em> <br>
-— Chinese Proverb
+<em>&quot;Good, better, best. Never let it rest. 'Til your good is better and your better is best. &quot;</em> <br>
+— St. Jerome
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
