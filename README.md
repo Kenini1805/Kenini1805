@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;All human beings can alter their lives by altering their attitudes.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;A person is only by the thoughts that he chooses.&quot;</em> <br>
+— James Allen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
