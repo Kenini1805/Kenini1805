@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Rest and be kind, you don't have to prove anything.&quot;</em> <br>
-— Jack Kerouac
+<em>&quot;an action committed in anger is an action doomed to failure. &quot;</em> <br>
+— Genghis Khan
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
