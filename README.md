@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Life has no limitations except the ones you make.&quot;</em> <br>
-— Les Brown
+<em>&quot;Rest and be kind, you don't have to prove anything.&quot;</em> <br>
+— Jack Kerouac
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
