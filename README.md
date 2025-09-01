@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;We have no more right to consume happiness without producing it than to consume wealth without producing it.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.&quot;</em> <br>
+— Benjamin Franklin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
