@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The harder the conflict, the greater the triumph. &quot;</em> <br>
-— George Washington
+<em>&quot;There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.&quot;</em> <br>
+— Ronald Reagan
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
