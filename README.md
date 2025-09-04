@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;In the beginner's mind there are many possibilities, but in the expert's mind there are few.&quot;</em> <br>
-— Shunryu Suzuki
+<em>&quot;I skate to where the puck is going to be, not where it has been.&quot;</em> <br>
+— Wayne Gretzky
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
