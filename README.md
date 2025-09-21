@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;We will now discuss in a little more detail the Struggle for Existence.&quot;</em> <br>
-— Charles Darwin
+<em>&quot;Give more than you think you can, trusting that you are richer than you think.&quot;</em> <br>
+— Jon Kabat-Zinn
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
