@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;I like the dreams of the future better than the history of the past.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Take away love and our earth is a tomb.&quot;</em> <br>
+— Robert Browning
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
