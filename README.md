@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&quot;</em> <br>
-— Zig Ziglar
+<em>&quot;It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.&quot;</em> <br>
+— Elon Musk
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
