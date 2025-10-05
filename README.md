@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Make improvements, not excuses. Seek respect, not attention.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;It is better to fail in originality than to succeed in imitation.&quot;</em> <br>
+— Herman Melville
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
