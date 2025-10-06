@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.&quot;</em> <br>
-— Stephen King
+<em>&quot;Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.&quot;</em> <br>
+— Earl Nightingale
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
