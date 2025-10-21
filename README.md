@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Keep away from people who try to belittle your ambitions.&quot;</em> <br>
-— Mark Twain
+<em>&quot;If you're not failing every now and again, it's a sign you're not doing anything very innovative.&quot;</em> <br>
+— Woody Allen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
