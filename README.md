@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;In order to control myself I must first accept myself by going with and not against my nature.&quot;</em> <br>
-— Bruce Lee
+<em>&quot;My powers are ordinary. Only my application brings me success.&quot;</em> <br>
+— Isaac Newton
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
