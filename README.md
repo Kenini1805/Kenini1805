@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Never waste a minute of your precious life thinking about people you don't like.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;There are people who have money and people who are rich.&quot;</em> <br>
+— Coco Chanel
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
