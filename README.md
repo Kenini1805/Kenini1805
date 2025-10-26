@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;You need a plan to build a house. To build a life, it is even more important to have a plan or goal.&quot;</em> <br>
+— Zig Ziglar
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
