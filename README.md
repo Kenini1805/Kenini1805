@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.&quot;</em> <br>
+— Anita Krizzan
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
