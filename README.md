@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  &quot;</em> <br>
-— Wayne Dyer
+<em>&quot;The wiser you get, the less you care to look like a fool.&quot;</em> <br>
+— Maxime Lagace
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
