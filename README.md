@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.&quot;</em> <br>
-— Yanni
+<em>&quot;Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.&quot;</em> <br>
+— Dale Carnegie
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
