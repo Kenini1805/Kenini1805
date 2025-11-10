@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Human beings believe just as they breathe - in order to survive.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.&quot;</em> <br>
+— Mark Twain
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
