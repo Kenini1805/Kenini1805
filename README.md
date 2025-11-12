@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.&quot;</em> <br>
-— F. Scott Fitzgerald
+<em>&quot;Courage is not having the strength to go on; it is going on when you don't have the strength.&quot;</em> <br>
+— Theodore Roosevelt
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
