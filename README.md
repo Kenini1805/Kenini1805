@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.&quot;</em> <br>
-— Ming-Dao Deng
+<em>&quot;When you are totally at peace with yourself, nothing can shake you.&quot;</em> <br>
+— Deepam Chaterjee
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
