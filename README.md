@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Being a good example is the best form of service.&quot;</em> <br>
-— Sathya Sai Baba
+<em>&quot;Give a girl the right shoes, and she can conquer the world.&quot;</em> <br>
+— Bette Midler
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
