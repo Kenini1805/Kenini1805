@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There is no truth. There is only perception.&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.&quot;</em> <br>
+— Gurbaksh Chahal
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
