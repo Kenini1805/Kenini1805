@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&quot;</em> <br>
-— Nicolas Chamfort
+<em>&quot;I have lost friends, some by death...others by sheer inability to cross the street.&quot;</em> <br>
+— Virginia Woolf
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
