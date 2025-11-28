@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.&quot;</em> <br>
-— Richard Bach
+<em>&quot;Every poem should remind the reader that they are going to die.&quot;</em> <br>
+— Edgar Allan Poe
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
