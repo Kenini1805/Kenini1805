@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;No one can compete with you on being you. Most of life is a search for who and what needs you the most.&quot;</em> <br>
-— Naval Ravikant
+<em>&quot;You'll get more from being a peacemaker than a warrior.&quot;</em> <br>
+— Arnold Schwarzenegger
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
