@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;TEAMWORK: the fuel that allows common people attain uncommon results.&quot;</em> <br>
-— Andrew Carnegie
+<em>&quot;The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.&quot;</em> <br>
+— Henry Ward Beecher
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
