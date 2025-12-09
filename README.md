@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Fear, uncertainty, and discomfort are your compasses toward growth.&quot;</em> <br>
-— Celestine Chua
+<em>&quot;People rarely succeed unless they have fun in what they are doing.&quot;</em> <br>
+— Dale Carnegie
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
