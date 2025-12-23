@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Closing your eyes and listening to silence is self-care.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;True prayer has no set form.&quot;</em> <br>
+— Morihei Ueshiba
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
