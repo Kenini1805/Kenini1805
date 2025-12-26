@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Time heals what reason cannot.  &quot;</em> <br>
-— Seneca
+<em>&quot;If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.&quot;</em> <br>
+— Charles Darwin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
