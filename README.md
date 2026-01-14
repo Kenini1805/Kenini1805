@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Do not follow the ideas of others, but learn to listen to the voice within yourself.&quot;</em> <br>
+— Dogen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
