@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;With self-discipline, almost anything is possible.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;Always keep your eyes open. Keep watching. Because whatever you see can inspire you.&quot;</em> <br>
+— Grace Coddington
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
