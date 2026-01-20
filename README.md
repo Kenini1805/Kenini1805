@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.&quot;</em> <br>
-— Steve Maraboli
+<em>&quot;Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.&quot;</em> <br>
+— Roy T. Bennett
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
