@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;We know nothing of tomorrow, our business is to be good and happy today.&quot;</em> <br>
-— Sydney Smith
+<em>&quot;Not until we are lost do we begin to understand ourselves.&quot;</em> <br>
+— Henry David Thoreau
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
