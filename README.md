@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.&quot;</em> <br>
-— Deepak Chopra
+<em>&quot;The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.&quot;</em> <br>
+— Herodotus
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
