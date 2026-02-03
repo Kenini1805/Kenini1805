@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Talk sense to a fool and he calls you foolish.&quot;</em> <br>
-— Euripides
+<em>&quot;Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.&quot;</em> <br>
+— Robert Greene
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
