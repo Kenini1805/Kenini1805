@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Changing minds is harder than finding people who already agree.&quot;</em> <br>
-— Jack Butcher
+<em>&quot;Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.&quot;</em> <br>
+— Nicolas Chamfort
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
