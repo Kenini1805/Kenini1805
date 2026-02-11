@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Happiness is the spiritual experience of living every minute with love, grace and gratitude.&quot;</em> <br>
-— Denis Waitley
+<em>&quot;If it's not broken, tinker with it till you find out how it works.&quot;</em> <br>
+— Bob Proctor
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
