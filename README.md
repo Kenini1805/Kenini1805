@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Insanity is relative. It depends on who has who locked in what cage.  &quot;</em> <br>
-— Ray Bradbury
+<em>&quot;Only when you can be extremely pliable and soft can you be extremely hard and strong.&quot;</em> <br>
+— Zen Proverb
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
