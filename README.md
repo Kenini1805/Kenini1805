@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. &quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;To live is the rarest thing in the world. Most people exist, that is all. &quot;</em> <br>
+— Oscar Wilde
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
