@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.&quot;</em> <br>
+— Dan Millman
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
