@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.&quot;</em> <br>
-— Eckhart Tolle
+<em>&quot;Whatever you are, be a good one.&quot;</em> <br>
+— Abraham Lincoln
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
