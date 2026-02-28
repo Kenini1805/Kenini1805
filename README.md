@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.&quot;</em> <br>
-— Epictetus
+<em>&quot;Many people spend more time looking at their failures than focusing on their successes.&quot;</em> <br>
+— Lolly Daskal
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
