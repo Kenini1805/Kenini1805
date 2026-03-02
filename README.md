@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is well known that those who do not trust themselves never trust others.&quot;</em> <br>
-— Alfred Adler
+<em>&quot;What we know is a drop, what we don't know is an ocean. &quot;</em> <br>
+— Isaac Newton
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
