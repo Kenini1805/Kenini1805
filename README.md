@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Do something to move yourself toward your major goal every day.&quot;</em> <br>
-— Brian Tracy
+<em>&quot;Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.&quot;</em> <br>
+— Jeffrey Gitomer
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
