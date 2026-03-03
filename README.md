@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Happiness is only real when shared.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.&quot;</em> <br>
+— Lao Tzu
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
