@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The greatest mistake you can make in life is to be continually fearing you will make one.&quot;</em> <br>
-— Elbert Hubbard
+<em>&quot;Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.&quot;</em> <br>
+— Norman Vincent Peale
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
