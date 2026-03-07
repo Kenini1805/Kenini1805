@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A clear conscience is the sure sign of a bad memory.&quot;</em> <br>
-— Mark Twain
+<em>&quot;People do not decide their futures, they decide their habits and their habits decide their futures.&quot;</em> <br>
+— Gary Keller
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
