@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;While some of us act without thinking, too many of us think without acting.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Men trust their ears less than their eyes.&quot;</em> <br>
+— Herodotus
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
