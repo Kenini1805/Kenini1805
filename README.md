@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It doesn't matter how much you want. What really matters is how much you want it.&quot;</em> <br>
-— Ralph Marston
+<em>&quot;Life must be a constant education; one must learn everything, from speaking to dying.&quot;</em> <br>
+— Gustave Flaubert
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
