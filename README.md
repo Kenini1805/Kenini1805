@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Success comes from knowing that you did your best to become the best that you are capable of becoming.&quot;</em> <br>
-— John Wooden
+<em>&quot;The future is not a gift. It is an achievement.&quot;</em> <br>
+— Robert F. Kennedy
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
