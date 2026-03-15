@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.&quot;</em> <br>
-— Anita Krizzan
+<em>&quot;A dead thing can go with the stream, but only a living thing can go against it.&quot;</em> <br>
+— Gilbert Chesterton
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
