@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The best way to predict your future is to create it.&quot;</em> <br>
-— Abraham Lincoln
+<em>&quot;You may think I'm small, but I have a universe inside my mind.&quot;</em> <br>
+— Yoko Ono
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
