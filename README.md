@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Happiness is only real, when shared.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;Any fool can turn a blind eye but who knows what the ostrich sees in the sand.&quot;</em> <br>
+— Samuel Beckett
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
