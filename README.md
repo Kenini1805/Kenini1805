@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Life can be the scariest and most beautiful thing simultaneously.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;It's the job that's never started that takes the longest to finish.&quot;</em> <br>
+— J.R.R. Tolkien
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
