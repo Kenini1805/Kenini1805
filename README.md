@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;We have no more right to consume happiness without producing it than to consume wealth without producing it.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;We should not look back unless it is to derive useful lessons from past errors.&quot;</em> <br>
+— George Washington
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
