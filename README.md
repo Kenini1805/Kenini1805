@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;In order for you to be the BEST you can be for others, first you must be BEST for yourself.&quot;</em> <br>
-— Jeffrey Gitomer
+<em>&quot;Success comes from knowing that you did your best to become the best that you are capable of becoming.&quot;</em> <br>
+— John Wooden
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
