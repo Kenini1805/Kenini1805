@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Our deeds determine us, as much as we determine our deeds.&quot;</em> <br>
-— George Eliot
+<em>&quot;The best teacher is experience and not through someone's distorted point of view.&quot;</em> <br>
+— Jack Kerouac
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
