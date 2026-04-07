@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Know yourself and you will win all battles.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&quot;</em> <br>
+— Carl Bard
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
