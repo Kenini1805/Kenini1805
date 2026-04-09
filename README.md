@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Only when you can be extremely pliable and soft can you be extremely hard and strong.&quot;</em> <br>
-— Zen Proverb
+<em>&quot;You can never get enough of what you don't need to make you happy.&quot;</em> <br>
+— Eric Hoffer
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
