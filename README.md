@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Never spend your money before you have earned it.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;When you win, say nothing, when you lose say less.&quot;</em> <br>
+— Wayne Gretzky
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
