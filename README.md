@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Riches don't make a man rich, they only make him busier.&quot;</em> <br>
-— Christopher Columbus
+<em>&quot;Don't think money does everything or you are going to end up doing everything for money.&quot;</em> <br>
+— Voltaire
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
