@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is better to disappoint people with the truth than to appease them with a lie.&quot;</em> <br>
-— Simon Sinek
+<em>&quot;Patience is bitter, but its fruit is sweet.&quot;</em> <br>
+— Aristotle
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
