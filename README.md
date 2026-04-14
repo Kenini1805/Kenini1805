@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Live your life as an exclamation rather than an explanation.&quot;</em> <br>
-— Isaac Newton
+<em>&quot;By failing to prepare, you are preparing to fail.&quot;</em> <br>
+— Benjamin Franklin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
