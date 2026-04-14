@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;No man is happy unless he believes he is.&quot;</em> <br>
-— Publilius Syrus
+<em>&quot;Riches don't make a man rich, they only make him busier.&quot;</em> <br>
+— Christopher Columbus
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
