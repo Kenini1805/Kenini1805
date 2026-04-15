@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Never allow someone to be your priority while allowing yourself to be their option.&quot;</em> <br>
+— Mark Twain
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
