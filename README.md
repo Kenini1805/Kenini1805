@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Never let the fear of striking out keep you from playing the game.&quot;</em> <br>
-— Babe Ruth
+<em>&quot;A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.&quot;</em> <br>
+— Jonathan Swift
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
