@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The only real security that a man can have in this world is a reserve of knowledge, experience and ability. &quot;</em> <br>
-— Henry Ford
+<em>&quot;A bird does not sing because it has an answer. It sings because it has a song.&quot;</em> <br>
+— Chinese Proverb
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
