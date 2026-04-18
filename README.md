@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;How many times do you have to get hit over the head until you figure out who's hitting you?&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;Men are disturbed not by things, but by the view which they take of them.&quot;</em> <br>
+— Epictetus
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
