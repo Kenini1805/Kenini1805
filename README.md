@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;We are all born ignorant, but one must work hard to remain stupid.&quot;</em> <br>
-— Benjamin Franklin
+<em>&quot;Courage is resistance to fear, mastery of fear - not absence of fear.&quot;</em> <br>
+— Mark Twain
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
