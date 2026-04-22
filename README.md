@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You don't need anybody to tell you who you are or what you are. You are what you are!&quot;</em> <br>
+<em>&quot;Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.&quot;</em> <br>
 — John Lennon
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
