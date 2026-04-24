@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is useless to attempt to reason a man out of a thing he was never reasoned into.&quot;</em> <br>
-— Jonathan Swift
+<em>&quot;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&quot;</em> <br>
+— Robert Greene
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
