@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Do what you can, with what you have, where you are.&quot;</em> <br>
-— Theodore Roosevelt
+<em>&quot;When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.&quot;</em> <br>
+— Zig Ziglar
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
