@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The present moment is filled with joy and happiness. If you are attentive, you will see it.&quot;</em> <br>
-— Thich Nhat Hanh
+<em>&quot;A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.&quot;</em> <br>
+— Lao Tzu
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
