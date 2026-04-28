@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You are what you believe yourself to be.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. &quot;</em> <br>
+— Samuel Beckett
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
