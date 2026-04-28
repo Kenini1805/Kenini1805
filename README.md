@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The smallest act of kindness is worth more than the greatest intention.  &quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. &quot;</em> <br>
+— Orison Swett Marden
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
