@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Some men see things as they are and ask why. Others dream things that never were and ask why not.&quot;</em> <br>
-— George Bernard Shaw
+<em>&quot;The decisions of our past are the architects of our present.&quot;</em> <br>
+— Dan Brown
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
