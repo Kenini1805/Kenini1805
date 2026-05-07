@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Understanding that rests in what it does not understand is the finest.&quot;</em> <br>
-— Zhuangzi
+<em>&quot;If you're afraid - don't do it, - if you're doing it - don't be afraid! &quot;</em> <br>
+— Genghis Khan
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
