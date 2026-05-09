@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The friendship that can cease has never been real. &quot;</em> <br>
-— St. Jerome
+<em>&quot;It takes a very long time to become young.&quot;</em> <br>
+— Pablo Picasso
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
