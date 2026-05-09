@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Dream big and dare to fail.&quot;</em> <br>
-— Norman Vaughan
+<em>&quot;Be not glad at the misfortune of another, though he may be your enemy. &quot;</em> <br>
+— George Washington
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
