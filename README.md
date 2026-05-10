@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Selfishness and greed, individual or national, cause most of our troubles.&quot;</em> <br>
-— Harry S. Truman
+<em>&quot;A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.&quot;</em> <br>
+— Criss Jami
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
