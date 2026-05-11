@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You talk when you cease to be at peace with your thoughts.&quot;</em> <br>
-— Kahlil Gibran
+<em>&quot;Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.&quot;</em> <br>
+— Adi Da Samraj
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
