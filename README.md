@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.&quot;</em> <br>
+— Peter A. Cohen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
