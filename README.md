@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. &quot;</em> <br>
-— Miguel de Cervantes
+<em>&quot;Goodness is the only investment that never fails.&quot;</em> <br>
+— Henry David Thoreau
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
