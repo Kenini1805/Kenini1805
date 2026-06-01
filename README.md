@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.&quot;</em> <br>
-— Stephen King
+<em>&quot;Remember that this moment is not your life, it's just a moment in your life. Focus on what is in front of you, right now.&quot;</em> <br>
+— Ryan Holiday
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
