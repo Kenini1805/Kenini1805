@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Silence is sometimes the best answer.&quot;</em> <br>
-— Dalai Lama
+<em>&quot;Just as true humor is laughter at oneself, true humanity is knowledge of oneself.&quot;</em> <br>
+— Alan Watts
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
