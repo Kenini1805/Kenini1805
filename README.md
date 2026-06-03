@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The mind is the limit.&quot;</em> <br>
-— Arnold Schwarzenegger
+<em>&quot;The busy man is never wise and the wise man is never busy.&quot;</em> <br>
+— Lin Yutang
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
