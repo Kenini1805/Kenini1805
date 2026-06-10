@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.&quot;</em> <br>
+<em>&quot;Success is walking from failure to failure with no loss of enthusiasm.&quot;</em> <br>
 — Colin R. Davis
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
