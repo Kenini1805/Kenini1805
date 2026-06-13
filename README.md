@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.&quot;</em> <br>
-— Gary Keller
+<em>&quot;It is startling to realize how much unbelief is necessary to make belief possible.&quot;</em> <br>
+— Eric Hoffer
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
