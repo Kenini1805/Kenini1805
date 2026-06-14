@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;We would accomplish many more things if we did not think of them as impossible.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.&quot;</em> <br>
+— Steve Maraboli
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
