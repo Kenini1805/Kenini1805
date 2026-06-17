@@ -1,4 +1,4 @@
-### Good afternoon 👋
+### Good evening ☕
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow.&quot;</em> <br>
-— Orison Swett Marden
+<em>&quot;When you reach the end of your rope, tie a knot in it and hang on.&quot;</em> <br>
+— Franklin D. Roosevelt
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
