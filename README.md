@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.&quot;</em> <br>
-— Paramahansa Yogananda
+<em>&quot;What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.&quot;</em> <br>
+— T.S. Eliot
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
