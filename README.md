@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Every one of us is the sum total of his own thoughts.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;If you have only one smile in you give it to the people you love.&quot;</em> <br>
+— Maya Angelou
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
