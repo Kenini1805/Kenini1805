@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Out of your vulnerabilities will come your strength.&quot;</em> <br>
-— Sigmund Freud
+<em>&quot;What have you done today to make someone else happy?&quot;</em> <br>
+— Deepam Chaterjee
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
