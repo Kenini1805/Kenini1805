@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Do Something. If it works, do more of it. If it doesn't, do something else.&quot;</em> <br>
-— Franklin D. Roosevelt
+<em>&quot;Invest in as much of yourself as you can, you are your own biggest asset by far.&quot;</em> <br>
+— Warren Buffett
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
