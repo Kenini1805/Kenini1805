@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There is no path to Love. Love is the path.&quot;</em> <br>
-— Dan Millman
+<em>&quot;Failure will never overtake me if my determination to succeed is strong enough.&quot;</em> <br>
+— Og Mandino
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
