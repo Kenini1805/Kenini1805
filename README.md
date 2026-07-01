@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Never to suffer would never to have been blessed.&quot;</em> <br>
-— Edgar Allan Poe
+<em>&quot;When you want something in life, you just gotta reach out and grab it.&quot;</em> <br>
+— Christopher McCandless
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
