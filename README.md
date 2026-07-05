@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Today I begin a new life. I will greet this day with love in my heart.&quot;</em> <br>
-— Og Mandino
+<em>&quot;A hut full of laughter is richer than a palace full of sadness.&quot;</em> <br>
+— Zen Proverb
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
