@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Don´t hesitate or allow yourself to make excuses. Just get out and do it.&quot;</em> <br>
-— Christopher McCandless
+<em>&quot;Our stories may be singular, but our destination is shared.&quot;</em> <br>
+— Barack Obama
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
