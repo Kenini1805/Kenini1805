@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It takes real work to grasp what is invisible to just about everyone else.&quot;</em> <br>
-— Ryan Holiday
+<em>&quot;Do not look for approval except for the consciousness of doing your best.&quot;</em> <br>
+— Andrew Carnegie
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
