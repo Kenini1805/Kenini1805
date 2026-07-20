@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There are no second chances in life, except to feel remorse.&quot;</em> <br>
-— Carlos Ruiz Zafon
+<em>&quot;The important thing is not to stop questioning. Curiosity has its own reason for existing.&quot;</em> <br>
+— Albert Einstein
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
