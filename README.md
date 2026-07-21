@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The single most powerful asset we all have is our mind.&quot;</em> <br>
-— Robert Kiyosaki
+<em>&quot;If you do not go within, you go without.&quot;</em> <br>
+— Neale Donald Walsch
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
