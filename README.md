@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;When your intuition is strong, follow it.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;Not all of us can do great things. But we can do small things with great love.&quot;</em> <br>
+— Mother Teresa
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
