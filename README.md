@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Happiness is not a goal...it's a by-product of a life well lived.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Kind words can be short and easy to speak, but their echoes are truly endless.&quot;</em> <br>
+— Mother Teresa
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
