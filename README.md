@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Nothing endures but change.&quot;</em> <br>
-— Heraclitus
+<em>&quot;Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.&quot;</em> <br>
+— Alexander Pope
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
