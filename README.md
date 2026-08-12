@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is truth that liberates, not your effort to be free.&quot;</em> <br>
-— Jiddu Krishnamurti
+<em>&quot;Risk comes from not knowing what you're doing.&quot;</em> <br>
+— Warren Buffett
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
