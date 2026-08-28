@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Life happens in the river, not the shore.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.&quot;</em> <br>
+— Alan Watts
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
