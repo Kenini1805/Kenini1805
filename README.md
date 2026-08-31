@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;He who is untrue to his own cause cannot command the respect of others.&quot;</em> <br>
-— Albert Einstein
+<em>&quot;There are no coincidences in the universe.&quot;</em> <br>
+— Neale Donald Walsch
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
