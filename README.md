@@ -1,4 +1,4 @@
-### Good night 😴
+### Good morning ☀️
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is during our darkest moments that we must focus to see the light.&quot;</em> <br>
-— Aristotle
+<em>&quot;You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?&quot;</em> <br>
+— Seneca
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
