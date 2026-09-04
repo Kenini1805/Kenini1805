@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Failure is an option here. If things are not failing, you are not innovating enough.&quot;</em> <br>
-— Elon Musk
+<em>&quot;Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.&quot;</em> <br>
+— Colin R. Davis
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
