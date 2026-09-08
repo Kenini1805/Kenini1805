@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.&quot;</em> <br>
-— James Allen
+<em>&quot;Every second you have on this planet is very precious and it's your responsibility that you're happy.&quot;</em> <br>
+— Naval Ravikant
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
