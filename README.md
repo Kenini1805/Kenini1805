@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There are no shortcuts to any place worth going.&quot;</em> <br>
-— Beverly Sills
+<em>&quot;People will forget what you said, people will forget what you did, but people will never forget how you made them feel.&quot;</em> <br>
+— Maya Angelou
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
