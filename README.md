@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The greater the impact you want to make, the greater your influence needs to be.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;The only way to 'find out if it will work out' is to do it.&quot;</em> <br>
+— Simon Sinek
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
