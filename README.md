@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There are dark shadows on the earth, but its lights are stronger in the contrast.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Don't want anything. Then you get everything.&quot;</em> <br>
+— Seungsahn
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
