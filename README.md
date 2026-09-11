@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Truth is like most opinions - best unexpressed.&quot;</em> <br>
-— Kenneth Branagh
+<em>&quot;Do something worth remembering.&quot;</em> <br>
+— Elvis Presley
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
