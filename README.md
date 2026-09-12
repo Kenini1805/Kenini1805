@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Life happens in the river, not the shore.&quot;</em> <br>
-— Maxime Lagace
+<em>&quot;When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.&quot;</em> <br>
+— Josh Waitzkin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
