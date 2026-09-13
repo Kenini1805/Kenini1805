@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.&quot;</em> <br>
-— Thomas Jefferson
+<em>&quot;Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.&quot;</em> <br>
+— Sigmund Freud
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
