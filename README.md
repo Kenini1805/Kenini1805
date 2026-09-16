@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.&quot;</em> <br>
-— Earl Nightingale
+<em>&quot;No one has ever become poor by giving.&quot;</em> <br>
+— Anne Frank
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
