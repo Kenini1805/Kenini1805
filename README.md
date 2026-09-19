@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Disobedience is the true foundation of liberty. The obedient must be slaves.&quot;</em> <br>
-— Henry David Thoreau
+<em>&quot;If I persist long enough I will win.&quot;</em> <br>
+— Og Mandino
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
