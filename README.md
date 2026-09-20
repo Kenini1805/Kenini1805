@@ -1,4 +1,4 @@
-### Happy weekend 🏝️
+### Good night 😴
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.&quot;</em> <br>
-— Charles Spurgeon
+<em>&quot;Just do the best you can. No one can do more than that.&quot;</em> <br>
+— John Wooden
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
