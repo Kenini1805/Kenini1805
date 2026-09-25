@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You can calculate the worth of a man by the number of his enemies.&quot;</em> <br>
-— Gustave Flaubert
+<em>&quot;Your success and happiness lie in you.&quot;</em> <br>
+— Helen Keller
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
