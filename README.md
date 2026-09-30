@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;I am not absentminded. It is the presence of mind that makes me unaware of everything else.&quot;</em> <br>
-— Gilbert Chesterton
+<em>&quot;Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.&quot;</em> <br>
+— Celestine Chua
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
