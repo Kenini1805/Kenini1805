@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The more people you help become successful the more successful you become.&quot;</em> <br>
-— Steve Harvey
+<em>&quot;As soon as you trust yourself, you will know how to live.&quot;</em> <br>
+— Johann Wolfgang von Goethe
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
