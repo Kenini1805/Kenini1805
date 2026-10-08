@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;Failure is a great teacher. If you're open to it every mistake has a lesson to offer.&quot;</em> <br>
+— Oprah Winfrey
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
