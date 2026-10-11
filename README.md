@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.&quot;</em> <br>
-— Pema Chodron
+<em>&quot;You are free, and that is why you are lost.&quot;</em> <br>
+— Franz Kafka
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
