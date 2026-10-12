@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Do not allow your inner doubts to keep you from achieving what you can do.&quot;</em> <br>
-— Lolly Daskal
+<em>&quot;What do we live for if not to make life less difficult for each other?&quot;</em> <br>
+— T.S. Eliot
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
