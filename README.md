@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.&quot;</em> <br>
-— John Tukey
+<em>&quot;Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.&quot;</em> <br>
+— Ralph Marston
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
