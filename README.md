@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Formal education will make you a living, self-education will make you a fortune.&quot;</em> <br>
-— Jim Rohn
+<em>&quot;Take good advice, make sure it is good advice, then do it your way.&quot;</em> <br>
+— Vidal Sassoon
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
