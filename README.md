@@ -1,4 +1,4 @@
-### Good evening ☕
+### Good night 😴
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Take good advice, make sure it is good advice, then do it your way.&quot;</em> <br>
-— Vidal Sassoon
+<em>&quot;If you cannot control your emotions, you cannot control your money.&quot;</em> <br>
+— Warren Buffett
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
