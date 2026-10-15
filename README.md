@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;It is easier to put leather on the soles of one's feet than cover the world with leather.&quot;</em> <br>
-— Tibetan Proverb
+<em>&quot;Time stays long enough for anyone who will use it.&quot;</em> <br>
+— Leonardo da Vinci
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
