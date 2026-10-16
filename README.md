@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;To be happy we need something to solve. Happiness is therefore a form of action.&quot;</em> <br>
+<em>&quot;The desire for more positive experience is itself a negative experience.&quot;</em> <br>
 — Mark Manson
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
