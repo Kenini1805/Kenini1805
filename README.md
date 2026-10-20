@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;The measure of who we are is what we do with what we have.&quot;</em> <br>
-— Vince Lombardi
+<em>&quot;Be brave. Take risks. Nothing can substitute experience.&quot;</em> <br>
+— Paulo Coelho
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
