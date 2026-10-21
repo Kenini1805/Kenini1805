@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;He will win who knows when to fight and when not to fight.&quot;</em> <br>
-— Sun Tzu
+<em>&quot;You may delay, but time will not.&quot;</em> <br>
+— Benjamin Franklin
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
