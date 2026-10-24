@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Enthusiasm makes up for a host of deficiencies.&quot;</em> <br>
-— Barack Obama
+<em>&quot;Within every obstacle is an opportunity to improve our condition.&quot;</em> <br>
+— Ryan Holiday
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
