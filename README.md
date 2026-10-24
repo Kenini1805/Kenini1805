@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Within every obstacle is an opportunity to improve our condition.&quot;</em> <br>
-— Ryan Holiday
+<em>&quot;Each time we don't say what we wanna say, we're dying.&quot;</em> <br>
+— Yoko Ono
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
