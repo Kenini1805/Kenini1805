@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;A loving heart is the truest wisdom.&quot;</em> <br>
-— Charles Dickens
+<em>&quot;The only limit to our realization of tomorrow will be our doubts of today.&quot;</em> <br>
+— Colin R. Davis
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
