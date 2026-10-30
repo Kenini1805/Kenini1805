@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.&quot;</em> <br>
-— Eleanor Roosevelt
+<em>&quot;Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.&quot;</em> <br>
+— Steve Harvey
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
