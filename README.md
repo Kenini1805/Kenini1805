@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Whatever you decide to do, make sure it makes you happy.&quot;</em> <br>
-— Paulo Coelho
+<em>&quot;It may take some hard work. But the more you say no to the things that don't matter, the more you can say yes to the things that do.&quot;</em> <br>
+— Ryan Holiday
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
