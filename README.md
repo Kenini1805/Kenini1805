@@ -1,4 +1,4 @@
-### Good morning ☀️
+### Good afternoon 👋
 <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;What's happening is merely what's happening. How you feel about it is another matter.&quot;</em> <br>
-— Neale Donald Walsch
+<em>&quot;Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.&quot;</em> <br>
+— Anne Wilson Schaef
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
