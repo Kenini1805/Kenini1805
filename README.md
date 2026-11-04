@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Have the courage to follow your heart and intuition. They somehow know what you truly want to become.&quot;</em> <br>
-— Steve Jobs
+<em>&quot;Freeing oneself from words is liberation.&quot;</em> <br>
+— Bodhidharma
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
