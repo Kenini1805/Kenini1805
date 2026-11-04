@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.&quot;</em> <br>
-— Anne Wilson Schaef
+<em>&quot;We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.&quot;</em> <br>
+— Gabor Mate
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
