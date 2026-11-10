@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.&quot;</em> <br>
-— Robert Collier
+<em>&quot;The moment you doubt whether you can fly, you cease for ever to be able to do it.&quot;</em> <br>
+— James Matthew Barrie
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
