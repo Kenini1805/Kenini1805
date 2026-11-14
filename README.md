@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.&quot;</em> <br>
-— Alexandre Dumas
+<em>&quot;Never lose hope. Storms make people stronger and never last forever.&quot;</em> <br>
+— Roy T. Bennett
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
