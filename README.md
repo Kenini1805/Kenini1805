@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Never lose hope. Storms make people stronger and never last forever.&quot;</em> <br>
-— Roy T. Bennett
+<em>&quot;If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.&quot;</em> <br>
+— Lao Tzu
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
