@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.&quot;</em> <br>
-— James Allen
+<em>&quot;Tradition is the illusion of permanence.&quot;</em> <br>
+— Woody Allen
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
