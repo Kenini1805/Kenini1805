@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;We may not be able to stop evil in the world, but how we treat one another is entirely up to us.&quot;</em> <br>
-— Barack Obama
+<em>&quot;I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.&quot;</em> <br>
+— Tony Robbins
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
