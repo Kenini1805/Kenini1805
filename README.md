@@ -44,7 +44,7 @@ Owner of packages <code>Laravel monitoring</code> and <code>Nginx monitoring</co
 ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
 💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
 ## Quote of the day:
-<em>&quot;Before anything else, preparation is the key to success.&quot;</em> <br>
-— Alexander Graham Bell
+<em>&quot;The most important thing is to enjoy your life, to be happy, it's all that matters.&quot;</em> <br>
+— Audrey Hepburn
 
 ⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
